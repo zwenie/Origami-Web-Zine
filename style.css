@@ -1,0 +1,257 @@
+body {
+    background: #DADADA;
+    background-size: inherit;
+}
+
+.head{
+    background-color: rgb(247, 255, 41); 
+    color: rgb(205, 0, 250); 
+    font-family: Tahoma, Geneva, sans-serif; 
+    font-size: 56px; 
+    font-weight: bold; 
+    height: 88px; 
+    left: 655px; 
+    position: absolute; 
+    text-align: center; 
+    top: 3px; 
+    width: 295px; 
+}
+
+.head2{
+    background-color: rgb(250, 252, 238); 
+    color: rgb(17, 80, 60); 
+    font-family: 'Trebuchet MS'; 
+    font-size: 20px; 
+    font-style: normal; 
+    font-weight: bold; 
+    height: 103px; 
+    left: 43px; 
+    position: absolute; 
+    text-align: left; 
+    top: 118.988px; 
+    width: 537px;
+}
+
+.head3{
+    background-color: rgb(26, 139, 168); 
+    color: rgb(252, 252, 252); 
+    font-family: 'Trebuchet MS'; 
+    font-size: 28px;  
+    font-weight: bold; 
+    height: 57px; 
+    left: 434px; 
+    padding-bottom: 14px; 
+    padding-left: 13px; 
+    padding-right: 13px; 
+    padding-top: 14px; 
+    position: absolute; 
+    text-align: left; 
+    top: 595px; 
+    width: 484px; 
+}
+
+.head4{
+
+    background-color: rgb(115, 242, 33); 
+    color: rgb(3, 38, 201); 
+    font-family: Arial, Helvetica,sans-serif; 
+    font-size: 21px; 
+    font-weight: bold; 
+    height: 89px; 
+    left: 13px; 
+    position: absolute; 
+    text-align: left; 
+    top: 718px; 
+    width: 555px; 
+}
+
+.head5{
+
+    background-color: rgb(115, 242, 33); 
+    color: rgb(3, 38, 201); 
+    font-family: Arial, Helvetica, sans-serif; 
+    font-size: 21px; 
+    font-weight: bold; 
+    height: 72px; 
+    left: 426px; 
+    position: absolute; 
+    text-align: left; 
+    top: 1440px; 
+    width: 562px;
+}
+
+.head6{
+
+    background-color: rgb(22, 227, 216); 
+    color: rgb(255, 66, 218); 
+    font-size: 58px; 
+    font-weight: bold; 
+    height: 100px; 
+    left: 321px; 
+    line-height: 0.873354em; 
+    position: absolute; 
+    text-align: center; 
+    top: 1802px; 
+    width: 100px; 
+}
+
+.head7{
+    background-color: rgb(255, 0, 255); 
+    color: rgb(255, 255, 255); 
+    font-family: Arial, Helvetica, sans-serif; 
+    font-size: 19px; 
+    font-weight: bold; 
+    height: 207px; 
+    left: 422px; 
+    padding-bottom: 5px; 
+    padding-left: 3px; 
+    padding-right: 3px; 
+    padding-top: 5px; 
+    position: absolute; 
+    text-align: left; 
+    top: 1687px; 
+    width: 562px;
+}
+
+.origami1{
+    height: 340px; 
+    left: 139px; 
+    position: absolute; 
+    top: 2235px; 
+    width: 212px;
+}
+
+.origami2{
+    height: 394px; 
+    left: 528px; 
+    position: absolute; 
+    top: 994px; 
+    width: 133px;
+}
+
+.origami3{
+    height: 397px; 
+    left: 90px; 
+    position: absolute; 
+    top: 800px; 
+    width: 141px;
+}
+
+.origami4{
+    height: 98px; 
+    left: 639px; 
+    position: absolute; 
+    top: 311px; 
+    width: 135px;
+}
+
+.origami5{
+    height: 340px; 
+    left: 383px;  
+    position: absolute; 
+    top: 2062px; 
+    width: 545px;
+}
+
+
+.gif{
+    height: 2574px; 
+    left: 1600px; 
+    position: absolute; 
+    top: 1px; 
+    width: 300px;
+}
+
+.TEXT1{
+
+background-color: transparent; 
+color: rgb(255, 243, 36); 
+font-family: Tahoma, Geneva, sans-serif; 
+font-size: 42px; 
+font-weight: bold; 
+height: 40px; 
+left: 1215px; 
+position: absolute; 
+top: 400px; 
+width: 675px; 
+
+}
+
+
+.TEXT2{
+
+background-color: transparent; 
+color: rgb(255, 243, 36); 
+font-family: Tahoma, Geneva, sans-serif; 
+font-size: 42px; 
+font-weight: bold; 
+height: 40px; 
+left: 1215px; 
+position: absolute; 
+top: 800px; 
+width: 675px; 
+
+}
+
+.TEXT3{
+
+background-color: transparent; 
+color: rgb(255, 243, 36); 
+font-family: Tahoma, Geneva, sans-serif; 
+font-size: 42px; 
+font-weight: bold; 
+height: 40px; 
+left: 1215px; 
+position: absolute; 
+top: 1200px; 
+width: 675px; 
+
+}
+
+.TEXT4{
+
+background-color: transparent; 
+color: rgb(255, 243, 36); 
+font-family: Tahoma, Geneva, sans-serif; 
+font-size: 42px; 
+font-weight: bold; 
+height: 40px; 
+left: 1215px; 
+position: absolute; 
+top: 1600px; 
+width: 675px; 
+
+}
+
+.TEXT5{
+
+background-color: transparent; 
+color: rgb(255, 243, 36); 
+font-family: Tahoma, Geneva, sans-serif; 
+font-size: 42px; 
+font-weight: bold; 
+height: 40px; 
+left: 1215px; 
+position: absolute; 
+top: 2000px; 
+width: 675px; 
+
+}
+
+.TEXT6{
+
+background-color: transparent; 
+color: rgb(255, 243, 36); 
+font-family: Tahoma, Geneva, sans-serif; 
+font-size: 42px; 
+font-weight: bold; 
+height: 40px; 
+left: 1215px; 
+position: absolute; 
+top: 2400px; 
+width: 675px; 
+
+}
+
+
+
