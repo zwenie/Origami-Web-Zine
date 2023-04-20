@@ -11,10 +11,10 @@ body {
     font-weight: bold; 
     height: 88px; 
     left: 655px; 
-    position: absolute; 
+    position: left; 
     text-align: center; 
     top: 3px; 
-    width: 295px; 
+    width: 100%; 
 }
 
 .head2{
@@ -52,7 +52,7 @@ body {
 
 .head4{
 
-    background-color: rgb(115, 242, 33); 
+    background-color: yellowgreen; 
     color: rgb(3, 38, 201); 
     font-family: Arial, Helvetica,sans-serif; 
     font-size: 21px; 
@@ -61,7 +61,7 @@ body {
     left: 13px; 
     position: absolute; 
     text-align: left; 
-    top: 718px; 
+    top: 800px; 
     width: 555px; 
 }
 
@@ -87,7 +87,7 @@ body {
     font-size: 58px; 
     font-weight: bold; 
     height: 100px; 
-    left: 321px; 
+    left: 285px; 
     line-height: 0.873354em; 
     position: absolute; 
     text-align: center; 
@@ -96,7 +96,7 @@ body {
 }
 
 .head7{
-    background-color: rgb(255, 0, 255); 
+    background-color: hotpink; 
     color: rgb(255, 255, 255); 
     font-family: Arial, Helvetica, sans-serif; 
     font-size: 19px; 
@@ -170,7 +170,7 @@ font-family: Tahoma, Geneva, sans-serif;
 font-size: 42px; 
 font-weight: bold; 
 height: 40px; 
-left: 1215px; 
+left: 1300px; 
 position: absolute; 
 top: 400px; 
 width: 675px; 
@@ -186,7 +186,7 @@ font-family: Tahoma, Geneva, sans-serif;
 font-size: 42px; 
 font-weight: bold; 
 height: 40px; 
-left: 1215px; 
+left: 1300px; 
 position: absolute; 
 top: 800px; 
 width: 675px; 
@@ -201,7 +201,7 @@ font-family: Tahoma, Geneva, sans-serif;
 font-size: 42px; 
 font-weight: bold; 
 height: 40px; 
-left: 1215px; 
+left: 1300px; 
 position: absolute; 
 top: 1200px; 
 width: 675px; 
@@ -216,7 +216,7 @@ font-family: Tahoma, Geneva, sans-serif;
 font-size: 42px; 
 font-weight: bold; 
 height: 40px; 
-left: 1215px; 
+left: 1300px; 
 position: absolute; 
 top: 1600px; 
 width: 675px; 
@@ -231,7 +231,7 @@ font-family: Tahoma, Geneva, sans-serif;
 font-size: 42px; 
 font-weight: bold; 
 height: 40px; 
-left: 1215px; 
+left: 1300px; 
 position: absolute; 
 top: 2000px; 
 width: 675px; 
@@ -246,7 +246,7 @@ font-family: Tahoma, Geneva, sans-serif;
 font-size: 42px; 
 font-weight: bold; 
 height: 40px; 
-left: 1215px; 
+left: 1300px; 
 position: absolute; 
 top: 2400px; 
 width: 675px; 
