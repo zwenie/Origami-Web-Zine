@@ -25,7 +25,7 @@ body {
     font-style: normal; 
     font-weight: bold; 
     height: 103px; 
-    left: 43px; 
+    left: 45px; 
     position: absolute; 
     text-align: left; 
     top: 118.988px; 
@@ -40,12 +40,12 @@ body {
     font-weight: bold; 
     height: 57px; 
     left: 434px; 
-    padding-bottom: 14px; 
+    padding-bottom: 16px; 
     padding-left: 13px; 
     padding-right: 13px; 
-    padding-top: 14px; 
+    padding-top: 10px; 
     position: absolute; 
-    text-align: left; 
+    text-align: center; 
     top: 595px; 
     width: 484px; 
 }
@@ -58,7 +58,7 @@ body {
     font-size: 21px; 
     font-weight: bold; 
     height: 95px; 
-    left: 13px; 
+    left: 45px; 
     position: absolute; 
     text-align: left; 
     top: 800px; 
