@@ -113,23 +113,23 @@ body {
     width: 562px;
 }
 
-.origami1{
+.flower{
     height: 340px; 
-    left: 139px; 
+    left: 350px; 
     position: absolute; 
-    top: 2235px; 
+    top: 2100px; 
     width: 212px;
 }
 
-.origami2{
-    height: 394px; 
-    left: 528px; 
+.cat{
+    height: 340px; 
+    left: 490px;  
     position: absolute; 
-    top: 994px; 
-    width: 133px;
+    top: 1360px; 
+    width: 545px;
 }
 
-.origami3{
+.boat{
     height: 397px; 
     left: 90px; 
     position: absolute; 
@@ -137,7 +137,7 @@ body {
     width: 141px;
 }
 
-.origami4{
+.fox{
     height: 98px; 
     left: 639px; 
     position: absolute; 
@@ -145,13 +145,7 @@ body {
     width: 135px;
 }
 
-.origami5{
-    height: 340px; 
-    left: 420px;  
-    position: absolute; 
-    top: 1960px; 
-    width: 545px;
-}
+
 
 
 .gif{
