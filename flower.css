@@ -83,3 +83,96 @@ p {
   clear: both;
 }
 
+
+
+
+.TEXT1{
+
+background-color: transparent; 
+color: rgb(255, 243, 36); 
+font-family: Tahoma, Geneva, sans-serif; 
+font-size: 42px; 
+font-weight: bold; 
+height: 40px; 
+left: 1300px; 
+position: absolute; 
+top: 800px; 
+width: 675px; 
+
+}
+
+.TEXT2{
+
+background-color: transparent; 
+color: rgb(255, 243, 36); 
+font-family: Tahoma, Geneva, sans-serif; 
+font-size: 42px; 
+font-weight: bold; 
+height: 40px; 
+left: 1300px; 
+position: absolute; 
+top: 1200px; 
+width: 675px; 
+
+}
+
+.TEXT3{
+
+background-color: transparent; 
+color: rgb(255, 243, 36); 
+font-family: Tahoma, Geneva, sans-serif; 
+font-size: 42px; 
+font-weight: bold; 
+height: 40px; 
+left: 1300px; 
+position: absolute; 
+top: 1600px; 
+width: 675px; 
+
+}
+
+.TEXT4{
+
+background-color: transparent; 
+color: rgb(255, 243, 36); 
+font-family: Tahoma, Geneva, sans-serif; 
+font-size: 42px; 
+font-weight: bold; 
+height: 40px; 
+left: 1300px; 
+position: absolute; 
+top: 2000px; 
+width: 675px; 
+
+}
+
+.TEXT5{
+
+background-color: transparent; 
+color: rgb(255, 243, 36); 
+font-family: Tahoma, Geneva, sans-serif; 
+font-size: 42px; 
+font-weight: bold; 
+height: 40px; 
+left: 1300px; 
+position: absolute; 
+top: 2400px; 
+width: 675px; 
+
+}
+
+.TEXT6{
+
+background-color: transparent; 
+color: rgb(255, 243, 36); 
+font-family: Tahoma, Geneva, sans-serif; 
+font-size: 42px; 
+font-weight: bold; 
+height: 40px; 
+left: 1300px; 
+position: absolute; 
+top: 2800px; 
+width: 675px; 
+
+}
+
