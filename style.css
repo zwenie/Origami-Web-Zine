@@ -122,9 +122,9 @@ body {
 
 .flower{
     height: 340px; 
-    left: 350px; 
+    left: 20px; 
     position: absolute; 
-    top: 2100px; 
+    top: 1800px; 
     width: 212px;
 }
 
@@ -132,7 +132,7 @@ body {
     height: 340px; 
     left: 490px;  
     position: absolute; 
-    top: 1360px; 
+    top: 1660px; 
     width: 545px;
 }
 
@@ -140,13 +140,13 @@ body {
     height: 397px; 
     left: 90px; 
     position: absolute; 
-    top: 600px; 
+    top: 500px; 
     width: 141px;
 }
 
 .fox{
     height: 98px; 
-    left: 639px; 
+    left: 500px; 
     position: absolute; 
     top: 311px; 
     width: 135px;
