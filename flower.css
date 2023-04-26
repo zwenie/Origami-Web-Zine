@@ -1,3 +1,85 @@
 body {
+	width: 100%;
+    margin: 0 auto;
 	background: #ea38f6;
 }
+
+section{
+	float: !important;
+	object-position: center;
+}
+
+h1 {
+  font-family:'Luminari';
+  font-size: 3vw;
+  color:yellow;
+}
+
+h2 {
+  font-size: 2vw;
+  color:white;
+  background-color: rebeccapurple;
+}
+
+p {
+  line-height: 1.5;
+  font-size: 20px;
+  font-family: 'Trebuchet MS', sans-serif;
+  text-align: justify;
+}
+
+.cute{
+    height: 0px;  
+    width: 0px;
+}
+
+.top, footer {
+  text-align: center;
+  background-color: hotpink;
+  color: white;
+  padding: 2%;
+}
+
+.bookmarks {
+  background-color: yellowgreen;
+  border-radius: 15px;
+  border: none;
+  color: white;
+  padding: 12px 18px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 20px;
+  font-family: 'Verdana', sans-serif;
+}
+
+.bookmarks:hover {
+   background-color: lightpink;
+}
+
+.flowers {
+  padding-top: 20px;
+  text-align: left;
+}
+
+
+.column {
+  float: center;
+}
+
+.main {
+  width: 40%;
+}
+
+
+.row{
+  width: 100%;
+  text-align:left;
+  margin: 5% 20%;  
+}
+
+.row::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
