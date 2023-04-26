@@ -1,7 +1,7 @@
 body {
 	width: 100%;
-    margin: 0 auto;
-	background: #ea38f6;
+  margin: 0 auto;
+	background: #CF1FD1;
 }
 
 section{
@@ -35,7 +35,7 @@ p {
 
 .top, footer {
   text-align: center;
-  background-color: hotpink;
+  background-color: #F61059;
   color: white;
   padding: 2%;
 }
