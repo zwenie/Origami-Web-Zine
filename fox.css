@@ -6,6 +6,30 @@ body {
   nudge 2s linear infinite alternate;
 }
 
+.gif{
+    height: 1800px; 
+    left: 1600px; 
+    position: absolute; 
+    top: 0px; 
+    width: 1000px;
+}
+
+.gif2{
+    height: 1800px; 
+    left: 1600px; 
+    position: absolute; 
+    top: 1800px; 
+    width: 1000px;
+}
+
+.gif3{
+    height: 1800px; 
+    left: 1600px; 
+    position: absolute; 
+    top: 3600px; 
+    width: 1000px;
+}
+
 @keyframes pulse {
   0% {
     background-color: #3df76c;
@@ -40,6 +64,7 @@ body {
   from { transform: translateX(0); }
   to { transform: translateX(50%); }
 }
+
 
 section{
 	float: !important;
