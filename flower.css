@@ -1,7 +1,18 @@
 body {
 	width: 100%;
+  height: auto;
   margin: 0 auto;
-	background: #CF1FD1;
+  animation: pulse 2s infinite alternate,
+  nudge 2s linear infinite alternate;
+}
+
+@keyframes pulse {
+  0% {
+    background-color: #CF1FD1;
+  }
+  100% {
+    background-color: hotpink;
+  }
 }
 
 section{
@@ -14,6 +25,7 @@ h1 {
   font-size: 3vw;
   color:yellow;
 }
+
 
 h2 {
   font-size: 2vw;

@@ -1,7 +1,18 @@
 body {
-	width: 100%;
-    margin: 0 auto;
-	background: #3df76c;
+  width: 100%;
+  height: auto;
+  margin: 0 auto;
+  animation: pulse 2s infinite alternate,
+  nudge 2s linear infinite alternate;
+}
+
+@keyframes pulse {
+  0% {
+    background-color: #3df76c;
+  }
+  100% {
+    background-color: lawngreen;
+  }
 }
 
 section{
